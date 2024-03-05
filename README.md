@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello, I'm Achik Ahmad! 👋
+[![GitHub Badge](https://img.shields.io/badge/-Achik_Ahmad-black?style=flat&logo=github&logoColor=white&link=https://github.com/Achik-Ahmed)](https://github.com/Achik-Ahmed)
 
-<!--
-**Achik-Ahmed/Achik-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about Python programming, web designing, WordPress, and ethical hacking. Currently, I'm also learning and exploring Termux and Linux. Here's a little about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning and exploring Termux and Linux.
+- 💼 I'm working as a web Developer, building exciting projects.
+- 💻 I also have experience in WordPress development, web designing, and ethical hacking.
+- 🌐 Visit my website: [termuxcommands.com](https://www.termuxcommands.com)
+- 📧 Email me at: [achikahmed.info@gmail.com](mailto:achikahmed.info@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Skills and Tools:
+<div align="left">
+  
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black&logoWidth=40&logoHeight=40)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black)
+![Termux](https://img.shields.io/badge/-Termux-green?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black)
+![Linux](https://img.shields.io/badge/-Linux-yellow?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
+
+</div>
+
+## 📊 GitHub Stats:
+![Achik Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achik-Ahmed&show_icons=true&theme=radical)
+
+## 📚 Latest Projects:
+- [IP Address Tracker](https://github.com/Achik-Ahmed/ip-Address-Tracker): A tool to track IP addresses and their locations.
+
+Feel free to explore my repositories to find more projects and contributions. Don't hesitate to connect with me on [GitHub](https://github.com/Achik-Ahmed) or reach out via email at achikahmed.info@gmail.com. Let's code together! 😊
