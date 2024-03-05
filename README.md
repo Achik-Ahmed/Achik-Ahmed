@@ -1,6 +1,8 @@
 # Hey there! I'm Achik Ahmad! 👋
 
 [![GitHub Badge](https://img.shields.io/badge/-Achik_Ahmad-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Achik-Ahmed)](https://github.com/Achik-Ahmed)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lil_zanny20?igsh=N2ltdHoxdGlta2Mz)](https://www.instagram.com/lil_zanny20?igsh=N2ltdHoxdGlta2Mz)
+[![WhatsApp Badge](https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/CntxW2PbjwT6meNgv7xoLh)](https://chat.whatsapp.com/CntxW2PbjwT6meNgv7xoLh)
 
 Welcome to my GitHub profile! I'm passionate about **Python programming**, **web designing**, **WordPress**, and **ethical hacking**. Currently, I'm diving deep into **Termux** and **Linux**. Here's a little about me:
 
@@ -32,4 +34,4 @@ Welcome to my GitHub profile! I'm passionate about **Python programming**, **web
 ## 📚 Latest Projects:
 - [IP Address Tracker](https://github.com/Achik-Ahmed/ip-Address-Tracker): A tool to track IP addresses and their locations.
 
-Feel free to explore my repositories to find more projects and contributions. Don't hesitate to connect with me on [GitHub](https://github.com/Achik-Ahmed) or reach out via email at achikahmed.info@gmail.com. Let's code together! 😊
+Feel free to explore my repositories to find more projects and contributions. Don't hesitate to connect with me on [GitHub](https://github.com/Achik-Ahmed) or reach out via email at achikahmed.info@gmail.com.
