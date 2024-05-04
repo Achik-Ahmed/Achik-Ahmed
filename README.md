@@ -6,6 +6,8 @@
 
 Welcome to my GitHub profile! I'm passionate about **Python programming**, **web designing**, **WordPress**, and **ethical hacking**. Currently, I'm diving deep into **Termux** and **Linux**. Here's a little about me:
 
+- 🏠 Living in Guwahati, Assam.
+- 🎓 Completing graduation under Guwahati University.
 - 🌱 I’m currently learning and exploring **Termux** and **Linux**.
 - 💼 I'm working as a **web Developer**, building exciting projects.
 - 💻 I also have experience in **WordPress development**, **web designing**, and **ethical hacking**.
